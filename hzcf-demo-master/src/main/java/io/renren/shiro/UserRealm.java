@@ -29,8 +29,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 /**
  * 认证
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author FYP
+ * @email fengyupeng@huizhongcf.com
  * @date 2016年11月10日 上午11:55:49
  */
 public class UserRealm extends AuthorizingRealm {

@@ -20,8 +20,8 @@ import org.springframework.scheduling.quartz.QuartzJobBean;
 /**
  * 定时任务
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author FYP
+ * @email fengyupeng@huizhongcf.com
  * @date 2016年11月30日 下午12:44:21
  */
 public class ScheduleJob extends QuartzJobBean {

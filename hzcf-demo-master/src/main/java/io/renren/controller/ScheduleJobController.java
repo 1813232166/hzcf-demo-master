@@ -21,8 +21,8 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * 定时任务
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author FYP
+ * @email fengyupeng@huizhongcf.com
  * @date 2016年11月28日 下午2:16:40
  */
 @RestController

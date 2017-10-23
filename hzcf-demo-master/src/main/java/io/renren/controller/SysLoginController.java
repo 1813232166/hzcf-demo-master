@@ -30,8 +30,8 @@ import com.google.code.kaptcha.Producer;
 /**
  * 登录相关
  * 
- * @author chenshun
- * @email sunlightcs@gmail.com
+ * @author FYP
+ * @email fengyupeng@huizhongcf.com
  * @date 2016年11月10日 下午1:15:31
  */
 @Controller
