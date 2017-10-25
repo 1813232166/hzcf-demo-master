@@ -14,8 +14,8 @@ import org.springframework.stereotype.Controller;
 
 import ${package}.entity.${className}Entity;
 import ${package}.service.${className}Service;
-import io.renren.utils.PageUtils;
-import io.renren.utils.R;
+import io.hzcf.utils.PageUtils;
+import io.hzcf.utils.R;
 
 
 /**
